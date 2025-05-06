@@ -13,7 +13,6 @@
 
 ### 1. Django側
 
-```bash
 cd backend/
 python -m venv venv
 source venv/bin/activate  # Windowsは venv\Scripts\activate
